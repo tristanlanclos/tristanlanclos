@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tristanlanclos
+- 👀 I’m interested in development of full system architectures as well as software development.
+- 🌱 I’m currently learning small board arm64 based system OS integration.
+- 💞️ I’m looking to collaborate on any hardware or software related projects.
+- 📫 How to reach me: Phone: (832) 427-9982 Email: tristan.lanclos@resi.io
